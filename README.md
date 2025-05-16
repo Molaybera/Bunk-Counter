@@ -17,10 +17,6 @@ Bunk Counter is a simple and fun web app that helps students calculate how many 
 - **CSS** – Styling and responsiveness  
 - **JavaScript** – Logic for calculations  
 
----
-
-## 📸 Screenshots  
-*(Add some images of your project here for better presentation!)*  
 
 ---
 
