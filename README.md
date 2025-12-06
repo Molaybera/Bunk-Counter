@@ -19,10 +19,6 @@ Bunk Counter is a simple and fun web app that helps students calculate how many 
 
 ---
 
-## 📸 Screenshots  
-*(Add some images of your project here for better presentation!)*  
-
----
 
 ## 🔥 How to Use  
 1️⃣ **Enter** the **required attendance percentage**.  
